@@ -1,0 +1,18 @@
+//First program execution in js
+console.log("Swapnil Ramesh Aade")
+console.log("========Hobbies========")
+console.log("1. playing cricket")
+console.log("2. Reading Books")
+console.log("3. Riding")
+console.log("========Strenght========")
+console.info("1. Hard Working")
+console.info("2. Problem solving")
+console.info("3. Time management")
+console.log("========Weakness========")
+console.warn("1. self sensitive")
+console.warn("2. Lack of confidence")
+console.warn("3. lack of experience")
+console.log("================")
+console.log(30+50)
+console.log(49*479)
+
